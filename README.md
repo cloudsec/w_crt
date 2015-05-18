@@ -1,7 +1,7 @@
 ###### w_crt
      A hobby c runtime library on linux system(x86).
 
-     by wzt 2015   wzt.wzt@gmail.com
+     by wzt 2011   wzt.wzt@gmail.com
 
 ###### feature
      1. memory allocter(malloc, free).
